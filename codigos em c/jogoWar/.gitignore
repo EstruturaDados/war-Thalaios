@@ -1,0 +1,37 @@
+# Ignorar arquivos de IDE
+.vscode/
+.idea/
+
+# Ignorar binários e arquivos de compilação (C, C++)
+*.exe
+*.o
+*.obj
+*.out
+*.class
+*.dll
+*.so
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Ignorar arquivos de backup
+*~
+*.bak
+
+.html
+.css
+.json
+.json
+.exe
+
+# Ignorar dependências ou builds
+/build/
+/dist/
+
+# Ignorar arquivos específicos que você não quer subir
+codigin/
+food-comerce/
+codigos/
